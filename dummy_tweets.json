@@ -1,0 +1,192 @@
+[
+    {
+      "tweet_id": "001",
+      "username": "AI_Guru",
+      "timestamp": "2024-11-05T10:00:00Z",
+      "text": "The latest advancements in GPT models are groundbreaking. AI will change the world!",
+      "likes": 120,
+      "retweets": 30,
+      "mentions": []
+    },
+    {
+      "tweet_id": "002",
+      "username": "TechTalk",
+      "timestamp": "2024-11-05T10:15:00Z",
+      "text": "Did you know? Machine learning models are getting more accurate every year! #MachineLearning",
+      "likes": 85,
+      "retweets": 20,
+      "mentions": []
+    },
+    {
+      "tweet_id": "003",
+      "username": "AI_Insights",
+      "timestamp": "2024-11-05T10:30:00Z",
+      "text": "How will AI ethics shape the future of technology?",
+      "likes": 65,
+      "retweets": 10,
+      "mentions": []
+    },
+    {
+      "tweet_id": "004",
+      "username": "DataScienceDaily",
+      "timestamp": "2024-11-05T10:45:00Z",
+      "text": "New AI tools for data visualization are changing how we see data. #DataScience #AI",
+      "likes": 98,
+      "retweets": 25,
+      "mentions": []
+    },
+    {
+      "tweet_id": "005",
+      "username": "AI_Learner22",
+      "timestamp": "2024-11-05T11:00:00Z",
+      "text": "Just started learning about neural networks. Fascinating topic!",
+      "likes": 45,
+      "retweets": 5,
+      "mentions": []
+    },
+    {
+      "tweet_id": "006",
+      "username": "RoboticsLab",
+      "timestamp": "2024-11-05T11:15:00Z",
+      "text": "AI-powered robots are now assisting in surgery. The future is here!",
+      "likes": 130,
+      "retweets": 40,
+      "mentions": []
+    },
+    {
+      "tweet_id": "007",
+      "username": "ML_News",
+      "timestamp": "2024-11-05T11:30:00Z",
+      "text": "Big updates in reinforcement learning! #RL #MachineLearning",
+      "likes": 70,
+      "retweets": 15,
+      "mentions": []
+    },
+    {
+      "tweet_id": "008",
+      "username": "TechieLife",
+      "timestamp": "2024-11-05T11:45:00Z",
+      "text": "Artificial Intelligence can now generate realistic images. Unreal! #AI #DeepLearning",
+      "likes": 115,
+      "retweets": 28,
+      "mentions": []
+    },
+    {
+      "tweet_id": "009",
+      "username": "FutureAI",
+      "timestamp": "2024-11-05T12:00:00Z",
+      "text": "The implications of AI on job markets will be huge. What do you think?",
+      "likes": 100,
+      "retweets": 22,
+      "mentions": []
+    },
+    {
+      "tweet_id": "010",
+      "username": "DataWhisperer",
+      "timestamp": "2024-11-05T12:15:00Z",
+      "text": "Data preprocessing is the key to effective machine learning. Don't skip it! #DataScience",
+      "likes": 95,
+      "retweets": 18,
+      "mentions": []
+    },
+    {
+      "tweet_id": "011",
+      "username": "AI_Fanatic",
+      "timestamp": "2024-11-05T12:30:00Z",
+      "text": "Exploring AI's potential in healthcare. The results are promising!",
+      "likes": 78,
+      "retweets": 14,
+      "mentions": []
+    },
+    {
+      "tweet_id": "012",
+      "username": "NLP_Expert",
+      "timestamp": "2024-11-05T12:45:00Z",
+      "text": "NLP models are evolving fast. Expect some big updates soon! #NLP #AI",
+      "likes": 110,
+      "retweets": 30,
+      "mentions": []
+    },
+    {
+      "tweet_id": "013",
+      "username": "AI_History",
+      "timestamp": "2024-11-05T13:00:00Z",
+      "text": "Remember when AI was just sci-fi? Look at how far we've come!",
+      "likes": 125,
+      "retweets": 32,
+      "mentions": []
+    },
+    {
+      "tweet_id": "014",
+      "username": "TechFutures",
+      "timestamp": "2024-11-05T13:15:00Z",
+      "text": "Quantum computing will supercharge AI capabilities. Exciting times ahead!",
+      "likes": 140,
+      "retweets": 35,
+      "mentions": []
+    },
+    {
+      "tweet_id": "015",
+      "username": "AI_Lover",
+      "timestamp": "2024-11-05T13:30:00Z",
+      "text": "How does AI impact privacy? It's a debate worth having.",
+      "likes": 68,
+      "retweets": 12,
+      "mentions": []
+    },
+    {
+      "tweet_id": "016",
+      "username": "RoboticsWorld",
+      "timestamp": "2024-11-05T13:45:00Z",
+      "text": "The integration of AI in robotics is leading to smarter machines.",
+      "likes": 82,
+      "retweets": 20,
+      "mentions": []
+    },
+    {
+      "tweet_id": "017",
+      "username": "AIDreamer",
+      "timestamp": "2024-11-05T14:00:00Z",
+      "text": "Deep learning is unlocking new possibilities in every field.",
+      "likes": 98,
+      "retweets": 27,
+      "mentions": []
+    },
+    {
+      "tweet_id": "018",
+      "username": "FutureTech",
+      "timestamp": "2024-11-05T14:15:00Z",
+      "text": "AI is entering its golden era. What innovation do you think is next?",
+      "likes": 105,
+      "retweets": 24,
+      "mentions": []
+    },
+    {
+      "tweet_id": "019",
+      "username": "AI_Researcher",
+      "timestamp": "2024-11-05T14:30:00Z",
+      "text": "New paper alert! Exploring AI models that can reason. #Research #AI",
+      "likes": 102,
+      "retweets": 29,
+      "mentions": []
+    },
+    {
+      "tweet_id": "020",
+      "username": "TechInnovator",
+      "timestamp": "2024-11-05T14:45:00Z",
+      "text": "Artificial Intelligence is just the beginning. What lies beyond?",
+      "likes": 115,
+      "retweets": 30,
+      "mentions": []
+    },
+    {
+      "tweet_id": "021",
+      "username": "AI_Enthusiast",
+      "timestamp": "2024-11-05T15:00:00Z",
+      "text": "AI for climate change? It's happening!",
+      "likes": 90,
+      "retweets": 20,
+      "mentions": []
+    }
+  ]
+  
