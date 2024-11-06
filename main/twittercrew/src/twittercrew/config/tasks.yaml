@@ -1,0 +1,39 @@
+scan_tweets_task:
+  description: >
+    Scan the dummy tweets feed for AI-related posts and return a list of the most relevant tweets.
+  expected_output: >
+    List of relevant AI-related tweets.
+  agent: feed_scanner_agent
+ 
+
+scan_news_task:
+  description: >
+    Scan for news articles that provide context to the extracted AI-related tweets.
+  expected_output: >
+    List of relevant news articles that relate to the tweets.
+  agent: news_scanner_agent
+
+interact_with_tweets_task:
+  description: >
+    Engage with tweets by liking, replying, or retweeting, informed by the context of relevant news articles.
+    Ensure to:
+      - Like at least 2-3 relevant tweets.
+      - Retweet 1-2 of the most relevant tweets.
+      - Reply or comment on at least 2 tweets.
+  expected_output: >
+    Detailed report of interactions made with tweets.
+    The report should include:
+      - A list of tweets liked, including tweet IDs, usernames, and the original tweet text.
+      - A list of tweets retweeted, including tweet IDs, usernames, and the original tweet text.
+      - A list of tweets replied to, including tweet IDs, usernames, the original tweet text, and the reply text.
+  agent: interaction_agent
+
+
+
+check_relevancy_task:
+  description: >
+    Verify that the replies made by the Interaction Agent align with the context of the original tweets.
+  expected_output: >
+    Confirmation of relevance for each response.
+  agent: context_relevancy_check_agent
+
