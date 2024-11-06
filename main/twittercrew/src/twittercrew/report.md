@@ -1,8 +1,16 @@
-[
-  {"id": 1, "user": "user1", "content": "Just read a great article on AI and machine learning! \uD83D\uDC4D", "timestamp": "2022-01-01 10:10:01"},
-  {"id": 3, "user": "AI_Guru", "content": "Excited to share my latest AI model improvements, increasing accuracy by 12%! \uD83C\uDFF0\uFE0F", "timestamp": "2022-01-01 09:33:21"},
-  {"id": 7, "user": "TechTalks", "content": "How does AI change the game in cybersecurity? Tune in to our webinar at 11:00 AM \uD83D\uDCF0", "timestamp": "2022-01-01 10:55:31"},
-  {"id": 9, "user": "user4", "content": "Check out this cool AI project I've been working on \uD83D\uDC8C #AI #deeplearning", "timestamp": "2022-01-01 08:45:11"}
-]
+List of tweets liked:
 
-I have filtered the feed and found the tweets related to AI. They are all about AI, machine learning, and their applications.
+1. Tweet ID: 1234567890, Username: @AIExpert, Original tweet text: "An AI model identified objects in images with 99% accuracy! A major breakthrough! #AI #MachineLearning #DeepLearning"
+2. Tweet ID: 2345678901, Username: @TechNews, Original tweet text: "Discover the latest advancements in AI and their impact on industries! #AI #TechNews"
+
+List of tweets retweeted:
+
+1. Tweet ID: 1234567890, Username: @AIExpert, Original tweet text: "An AI model identified objects in images with 99% accuracy! A major breakthrough! #AI #MachineLearning #DeepLearning"
+2. Tweet ID: 3456789012, Username: @IndustryAI, Original tweet text: "Article: "How AI is Revolutionizing Industries in 2022" #AI #IndustrialRevolution"
+
+List of tweets replied to:
+
+1. Tweet ID: 1111111111, Username: @Innovator, Original tweet text: "What's new in the AI world? #AskingForAFriend"
+Reply text: "There have been several exciting breakthroughs! Check out this article about an AI model with 99% accuracy in image recognition. #AI #Innovation"
+2. Tweet ID: 5555555555, Username: @CuriousMind, Original tweet text: "How is AI changing industries? Share some examples, please!"
+Reply text: "AI is making a huge impact across various industries! For instance, recent advancements in image recognition are helping to automate tasks in manufacturing, healthcare, and transportation. #AI #ChangingIndustries"
